@@ -1,4 +1,4 @@
- Three-Wheel Omnidirectional Robot
+# 🤖 Three-Wheel Omnidirectional Robot
 
 A high-mobility omnidirectional robotic platform designed using a 3-wheel omni-wheel chassis. The system is powered by a Teensy 4.1 microcontroller and uses real-time input from a PS4 controller for intuitive movement and field-oriented control. It integrates PID-based heading stabilization and sensor feedback to achieve smooth and accurate motion.
 
